@@ -1,3 +1,5 @@
+![logo](https://github.com/Avanthii09/Avanthii09/blob/main/GitBanner.png)
+
 # 💫 About Me
 👩🏻‍💻 Passionate frontend developer<br>🚀 Currently mastering in React, Kendo UI, and Material UI <br>🔭 Exploring backend development for growth<br>🖥️ Focused on creating user-friendly and interactive web applications<br>🌐 Additionally interested in  cloud computing and database management<br>⚡ Eager to continuously learn and grow with enthusiasm 
 
